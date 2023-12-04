@@ -1,0 +1,15 @@
+{
+  "name": "bulma-modal-handle",
+  "version": "1.0.0",
+  "description": "Toggles a Bulma modal from an element ID passed in.",
+  "main": "modal-handle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bulma",
+    "modal"
+  ],
+  "author": "Callum McKinnon",
+  "license": "ISC"
+}
