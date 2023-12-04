@@ -1,6 +1,6 @@
 {
   "name": "bulma-modal-handle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Toggles a Bulma modal from an element ID passed in.",
   "main": "modal-handle.js",
   "scripts": {
